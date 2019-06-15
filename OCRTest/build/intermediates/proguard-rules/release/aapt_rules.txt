@@ -1,0 +1,12 @@
+# Referenced at C:\Users\virat\AndroidStudioProjects\android-ocr-master\OCRTest\build\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:48
+-keep class edu.sfsu.cs.orange.ocr.CaptureActivity { <init>(...); }
+# Referenced at C:\Users\virat\AndroidStudioProjects\android-ocr-master\OCRTest\build\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:60
+-keep class edu.sfsu.cs.orange.ocr.HelpActivity { <init>(...); }
+# Referenced at C:\Users\virat\AndroidStudioProjects\android-ocr-master\OCRTest\build\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:69
+-keep class edu.sfsu.cs.orange.ocr.PreferencesActivity { <init>(...); }
+# Referenced at C:\Users\virat\AndroidStudioProjects\android-ocr-master\OCRTest\src\main\res\layout\capture.xml:27
+-keep class edu.sfsu.cs.orange.ocr.ViewfinderView { <init>(...); }
+
+# Referenced at C:\Users\virat\AndroidStudioProjects\android-ocr-master\OCRTest\src\main\res\layout\capture.xml:176
+-keep class edu.sfsu.cs.orange.ocr.camera.ShutterButton { <init>(...); }
+

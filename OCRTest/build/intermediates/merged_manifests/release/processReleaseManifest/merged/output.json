@@ -1,0 +1,1 @@
+[{"outputType":{"type":"MERGED_MANIFESTS"},"apkInfo":{"type":"MAIN","splits":[],"versionCode":33,"versionName":"0.5.14","enabled":true,"outputFile":"OCRTest-release-unsigned.apk","fullName":"release","baseName":"release"},"path":"AndroidManifest.xml","properties":{"packageId":"edu.sfsu.cs.orange.ocr","split":"","minSdkVersion":"9"}}]

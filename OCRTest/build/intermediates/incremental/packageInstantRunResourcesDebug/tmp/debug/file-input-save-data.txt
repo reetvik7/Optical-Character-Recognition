@@ -1,0 +1,31 @@
+#Internal package file, do not edit.
+#Sun Oct 14 02:07:12 IST 2018
+2.base=C\:\\Users\\virat\\AndroidStudioProjects\\android-ocr-master\\OCRTest\\build\\intermediates\\merged_assets\\debug\\mergeDebugAssets\\out
+5.set=ASSET
+0.path=eng.traineddata.zip
+2.baseType=DIRECTORY
+3.base=C\:\\Users\\virat\\AndroidStudioProjects\\android-ocr-master\\OCRTest\\build\\intermediates\\merged_assets\\debug\\mergeDebugAssets\\out
+2.set=ASSET
+1.path=osd.traineddata.zip
+4.base=C\:\\Users\\virat\\AndroidStudioProjects\\android-ocr-master\\OCRTest\\build\\intermediates\\merged_assets\\debug\\mergeDebugAssets\\out
+count=7
+5.baseType=DIRECTORY
+2.path=html/whatsnew.html
+5.base=C\:\\Users\\virat\\AndroidStudioProjects\\android-ocr-master\\OCRTest\\build\\intermediates\\merged_assets\\debug\\mergeDebugAssets\\out
+4.set=ASSET
+3.path=html/about.html
+6.base=C\:\\Users\\virat\\AndroidStudioProjects\\android-ocr-master\\OCRTest\\build\\intermediates\\merged_assets\\debug\\mergeDebugAssets\\out
+3.baseType=DIRECTORY
+1.set=ASSET
+4.path=html/changes.html
+6.set=ASSET
+1.baseType=DIRECTORY
+6.baseType=DIRECTORY
+5.path=images/launcher_icon.png
+0.base=C\:\\Users\\virat\\AndroidStudioProjects\\android-ocr-master\\OCRTest\\build\\intermediates\\merged_assets\\debug\\mergeDebugAssets\\out
+0.baseType=DIRECTORY
+3.set=ASSET
+6.path=html/style.css
+1.base=C\:\\Users\\virat\\AndroidStudioProjects\\android-ocr-master\\OCRTest\\build\\intermediates\\merged_assets\\debug\\mergeDebugAssets\\out
+4.baseType=DIRECTORY
+0.set=ASSET

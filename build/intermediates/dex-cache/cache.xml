@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\virat\AndroidStudioProjects\android-ocr-master\OCRTest\libs\microsoft-translator-java-api-0.6-mod.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="176df3274c901602fe2b6c345326a6990be557b9">
+        <dex dex="C:\Users\virat\AndroidStudioProjects\android-ocr-master\OCRTest\build\intermediates\pre-dexed\debug\microsoft-translator-java-api-0.6-mod_45fb916d1a601deb587080a80954335cc6cae95d.jar" />
+    </item>
+    <item
+        jar="C:\Users\virat\AndroidStudioProjects\android-ocr-master\OCRTest\libs\jtar-1.0.4.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="b6ff62805312c9384c2f4cc21a6367b74fd2bbd7">
+        <dex dex="C:\Users\virat\AndroidStudioProjects\android-ocr-master\OCRTest\build\intermediates\pre-dexed\debug\jtar-1.0.4_68300d332e52f976b660e95e9ef4e6186cb056fa.jar" />
+    </item>
+    <item
+        jar="C:\Users\virat\AndroidStudioProjects\android-ocr-master\OCRTest\build\intermediates\exploded-aar\com.rmtheis\tess-two\6.0.4\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="27377d2be96cab8211f228b424f221f34a0fa5bc">
+        <dex dex="C:\Users\virat\AndroidStudioProjects\android-ocr-master\OCRTest\build\intermediates\pre-dexed\debug\com.rmtheis-tess-two-6.0.4_beb74ae413caa1260597b9a92598b5b711bb3070.jar" />
+    </item>
+    <item
+        jar="C:\Users\virat\AndroidStudioProjects\android-ocr-master\OCRTest\libs\google-api-translate-java-0.98-mod2.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="2eda6905f8b719be023772e5c738d93c6b77210b">
+        <dex dex="C:\Users\virat\AndroidStudioProjects\android-ocr-master\OCRTest\build\intermediates\pre-dexed\debug\google-api-translate-java-0.98-mod2_e3ba9dcf830a3984b7029f7b085d5516b806ef58.jar" />
+    </item>
+    <item
+        jar="C:\Users\virat\AndroidStudioProjects\android-ocr-master\OCRTest\libs\json_simple-1.1.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="5e303a03d04e6788dddfa3655272580ae0fc13bb">
+        <dex dex="C:\Users\virat\AndroidStudioProjects\android-ocr-master\OCRTest\build\intermediates\pre-dexed\debug\json_simple-1.1_77cac78731037a5f214071ecde7a303e7a10d83f.jar" />
+    </item>
+
+</items>
